@@ -1,1 +1,1 @@
-https://github.com/SquareszLeaf/test/raw/refs/heads/main/Leaf_LagSwitchV2.3.2.exe
+https://github.com/SquareszLeaf/Leaf-LagSwitch/releases/tag/LeafLagV2.3.2HotFix
